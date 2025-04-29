@@ -1,0 +1,14 @@
+Anotações
+
+-Diferença entre ID e Class
+
+id = individual; Representado com uma (#)
+class = coletivo; Representado com um (.)
+
+-CSS 
+
+{} = bloco
+
+seletor{
+    propriedade: valor;
+}
